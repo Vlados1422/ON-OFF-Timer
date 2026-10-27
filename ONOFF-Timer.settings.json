@@ -1,0 +1,16 @@
+﻿{
+    "Action":  0,
+    "H":  0,
+    "M":  15,
+    "Mode":  1,
+    "At":  "15:47",
+    "Warn":  true,
+    "WarnSec":  20,
+    "Force":  false,
+    "Fade":  false,
+    "Top":  false,
+    "Tray":  true,
+    "Snd":  0,
+    "SoundFile":  "",
+    "LnkAsked":  true
+}
